@@ -57,7 +57,7 @@ class MesinPrint(
 }
 
 fun main() {
-    val pelanggan = Pelanggan("Erika", 5000)
+    val pelanggan = Pelanggan("Vera", 5000)
     val mesin = MesinPrint(10, 10, 1000)
 
     println("=== SIMULASI GAGAL ===")
