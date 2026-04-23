@@ -64,6 +64,6 @@ fun main() {
     mesin.cetak(pelanggan, 10) // saldo kurang
 
     println("\n=== SIMULASI SUKSES ===")
-    val pelanggan2 = Pelanggan("Budi", 20000)
+    val pelanggan2 = Pelanggan("Nur", 20000)
     mesin.cetak(pelanggan2, 5)
 }
